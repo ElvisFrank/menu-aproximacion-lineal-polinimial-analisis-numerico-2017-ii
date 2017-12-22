@@ -1,0 +1,41 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 16.04.2 ] */
+
+/* [wxMaxima: input   start ] */
+ wxdraw2d(color=blue,
+ explicit(
+  -2.4531584     *x^           0 +
+   1.2196208     *x^           1 +
+   0.0000000     *x^           2 +
+   0.0000000     *x^           3
+ ,x,  0.88999999     ,   2.2099998     ),
+ color=orange-red,
+ point_type=5,
+ point_size=1,
+ points([
+ [
+   1.0000000     ,
+   1.8400000     ],
+ [
+   1.1000000     ,
+   1.9600000     ],
+ [
+   1.3000000     ,
+   2.2100000     ],
+ [
+   1.5000000     ,
+   2.4500000     ],
+ [
+   1.9000000     ,
+   2.9400001     ],
+ [
+   2.0999999     ,
+   3.1800001     ]
+ ]),
+ xlabel="X",
+ ylabel="Y",
+ title="Aproximacion");
+/* [wxMaxima: input   end   ] */
+
+/* Maxima cant load/batch files which end with a comment! */
+Created with wxMaxima"$

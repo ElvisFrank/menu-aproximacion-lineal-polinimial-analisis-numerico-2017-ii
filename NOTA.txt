@@ -1,0 +1,5 @@
+-Al correr la operacion automaticamente se guarda en "Salida.wxm"
+-En wxMaxima importar archivo: "Salida.wxm"
+-correr
+
+Los datos almacenados seran de la ultima opcion pedida en el programa
